@@ -57,16 +57,6 @@ public class WordPuzzle {
 		}
 	}
 	
-//	//print the word puzzle transpose
-//		public void printPuzzleT( int r, int c) {
-//		
-//			for (int i=0; i<r; i++){						
-//				for (int j=0; j<c; j++){				
-//					System.out.print(transGrid[i][j] + " ");				
-//				}
-//				System.out.println("");
-//			}
-//		}
 		
 	//reverse strings
 	public String reverseStr (String str){
@@ -96,7 +86,6 @@ public class WordPuzzle {
 			}
 			
 		}
-		//System.out.println(arrStr.size());
 	}
 	
 	
@@ -130,7 +119,6 @@ public class WordPuzzle {
 				}
 			}
 		}
-		//System.out.println(arrStr.size());
 	}
 	
 	
